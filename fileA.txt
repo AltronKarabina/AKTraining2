@@ -1,1 +1,3 @@
-this is some code from fileA
+this is some code from fileA.
+
+some more text
