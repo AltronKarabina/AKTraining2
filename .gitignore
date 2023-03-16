@@ -1,0 +1,6 @@
+filenamec.txt
+/venv
+.env
+*.pyc
+*.ipynb
+/folder1/folder2/
