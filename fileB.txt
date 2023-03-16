@@ -1,1 +1,1 @@
-some random text in fileB
+some changes. some random text in fileB
