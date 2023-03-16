@@ -1,1 +1,5 @@
-some changes. some random text in fileB
+
+
+
+some random text in fileB. dev b made this changes again
+
